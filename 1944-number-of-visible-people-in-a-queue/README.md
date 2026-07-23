@@ -37,3 +37,37 @@ Person 5 can see no one since nobody is to the right of them.
 	<li><code>1 &lt;= heights[i] &lt;= 10<sup>5</sup></code></li>
 	<li>All the values of <code>heights</code> are <strong>unique</strong>.</li>
 </ul>
+
+Sol :~ Algorithm
+
+For every person from right to left:
+
+Step 1
+
+Jab tak stack top
+
+<= current height
+
+tab tak
+
+Pop
+count++
+
+Reason:
+
+Current person un sabko dekh sakta hai.
+
+Step 2
+
+Agar stack empty nahi hai
+
+count++
+
+Reason:
+
+Jo pehla taller person bacha hai,
+wo bhi visible hai.
+
+Step 3
+
+Current height push karo.
