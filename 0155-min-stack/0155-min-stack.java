@@ -9,7 +9,7 @@ class MinStack {
     
     public void push(int value) {
         st.push(value);
-        if(minst.size()==0 || value<minst.peek()) minst.push(value);
+        if(minst.size()==0 || value<=minst.peek()) minst.push(value);
         else minst.push(minst.peek());
     }
     public void pop() {
