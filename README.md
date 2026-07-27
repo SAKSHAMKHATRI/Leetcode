@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0136-single-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0136-single-number) |
+## Binary Search
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Counting
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
