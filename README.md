@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0066-plus-one) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2413-smallest-even-multiple](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [3099-harshad-number](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/3099-harshad-number) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
