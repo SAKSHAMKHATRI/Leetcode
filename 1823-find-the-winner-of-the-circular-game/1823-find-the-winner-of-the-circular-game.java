@@ -5,10 +5,12 @@ class Solution {
             q.add(i);
         }
         while(q.size()>1){
+        // k-1 element ko last mein leke jayenge
         for(int i=1;i<=k-1;i++){
             q.add(q.remove());
         }
-            q.remove();
+        // kth player ko remove
+        q.remove();
         }
         return q.peek();
 
