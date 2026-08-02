@@ -17,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Array
 |  |
 | ------- |
@@ -93,5 +95,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
