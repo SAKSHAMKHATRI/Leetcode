@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0067-add-binary) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2413-smallest-even-multiple](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2413-smallest-even-multiple) |
@@ -60,10 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0067-add-binary) |
 | [3146-permutation-difference-between-two-strings](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0136-single-number) |
 ## Binary Search
 |  |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0067-add-binary) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Recursion
