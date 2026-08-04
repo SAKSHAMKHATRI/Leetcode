@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2413-smallest-even-multiple](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [3099-harshad-number](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/3099-harshad-number) |
+| [3894-traffic-signal-color](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Number Theory
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0412-fizz-buzz) |
 | [3146-permutation-difference-between-two-strings](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
+| [3894-traffic-signal-color](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0412-fizz-buzz) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1929-concatenation-of-array) |
+| [3894-traffic-signal-color](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Recursion
 |  |
 | ------- |
