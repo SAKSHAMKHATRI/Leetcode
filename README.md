@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0067-add-binary) |
+| [0342-power-of-four](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0504-base-7) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0136-single-number) |
+| [0342-power-of-four](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0342-power-of-four) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
