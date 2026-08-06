@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3894-traffic-signal-color](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/3894-traffic-signal-color) |
