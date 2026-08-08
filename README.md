@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3731-find-missing-elements](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/3731-find-missing-elements) |
+| [3925-concatenate-array-with-reverse](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3894-traffic-signal-color](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/3894-traffic-signal-color) |
+| [3925-concatenate-array-with-reverse](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Recursion
 |  |
 | ------- |
