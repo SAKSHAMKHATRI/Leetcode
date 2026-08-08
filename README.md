@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
