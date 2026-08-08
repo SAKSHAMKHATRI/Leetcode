@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3731-find-missing-elements](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
