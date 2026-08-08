@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0504-base-7) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0709-to-lower-case](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0709-to-lower-case) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3146-permutation-difference-between-two-strings](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3894-traffic-signal-color](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Bit Manipulation
