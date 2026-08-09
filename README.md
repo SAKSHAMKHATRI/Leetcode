@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2032-two-out-of-three](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2032-two-out-of-three) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3731-find-missing-elements](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/3731-find-missing-elements) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2032-two-out-of-three](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2032-two-out-of-three) |
 | [3146-permutation-difference-between-two-strings](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3731-find-missing-elements](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0342-power-of-four) |
+| [2032-two-out-of-three](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2032-two-out-of-three) |
 ## Binary Search
 |  |
 | ------- |
