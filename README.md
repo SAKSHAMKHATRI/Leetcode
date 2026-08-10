@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0704-binary-search](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0383-ransom-note) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1512-number-of-good-pairs) |
