@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0392-is-subsequence) |
