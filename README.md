@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/3731-find-missing-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2032-two-out-of-three](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2032-two-out-of-three) |
 | [2248-intersection-of-multiple-arrays](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3146-permutation-difference-between-two-strings](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3731-find-missing-elements](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
