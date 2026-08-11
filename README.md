@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0771-jewels-and-stones](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0504-base-7) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0709-to-lower-case](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2000-reverse-prefix-of-word](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [3146-permutation-difference-between-two-strings](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
