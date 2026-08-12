@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0067-add-binary) |
 | [0292-nim-game](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0292-nim-game) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0002-add-two-numbers) |
 | [0342-power-of-four](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0342-power-of-four) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0292-nim-game) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
