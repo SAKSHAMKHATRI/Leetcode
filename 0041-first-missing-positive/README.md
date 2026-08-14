@@ -34,3 +34,32 @@
 	<li><code>1 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>-2<sup>31</sup> &lt;= nums[i] &lt;= 2<sup>31</sup> - 1</code></li>
 </ul>
+First Missing Positive — Cyclic Sort
+
+Goal: Array mein smallest missing positive number find karna.
+
+Logic:
+
+Array size = n
+Sirf numbers 1 to n useful hain.
+Har number x ko uski correct position x - 1 par place karo.
+Ignore:
+x <= 0
+x > n
+x already correct position par hai
+duplicate value hai
+
+Correct position:
+
+1 → index 0
+2 → index 1
+3 → index 2
+...
+n → index n-1
+
+After sorting:
+
+arr[i] != i + 1 → answer = i + 1
+Agar sab positions correct hain → answer = n + 1
+
+Important: return n nahi, return n + 1.
