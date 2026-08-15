@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3099-harshad-number](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3894-traffic-signal-color](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/3894-traffic-signal-color) |
+| [3908-valid-digit-number](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/3908-valid-digit-number) |
 ## Number Theory
 |  |
 | ------- |
