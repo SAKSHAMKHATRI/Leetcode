@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0342-power-of-four](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0342-power-of-four) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -228,4 +229,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
