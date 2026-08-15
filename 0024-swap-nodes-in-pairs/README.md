@@ -44,3 +44,66 @@
 	<li>The number of nodes in the&nbsp;list&nbsp;is in the range <code>[0, 100]</code>.</li>
 	<li><code>0 &lt;= Node.val &lt;= 100</code></li>
 </ul>
+
+/**
+ * LeetCode 24 - Swap Nodes in Pairs
+ *
+ * Example:
+ * 1 -> 2 -> 3 -> 4
+ * becomes
+ * 2 -> 1 -> 4 -> 3
+ *
+ * Approach:
+ * 1. Agar 0 ya 1 node hai, toh swap nahi karna.
+ * 2. Current pair ke 2nd node ko `second` mein store karo.
+ * 3. Remaining list (second.next) ko recursively swap karo.
+ * 4. Current pair ko reverse karo:
+ *      second.next = head
+ * 5. `second` ko new head bana kar return karo.
+ *
+ * IMPORTANT:
+ * `head.next = swapPairs(second.next)`
+ *
+ * Iska matlab directly `head.next = second.next` nahi hai.
+ * Pehle `swapPairs(3)` recursively execute hoga.
+ *
+ * Example:
+ * 1 -> 2 -> 3 -> 4
+ *
+ * head = 1
+ * second = 2
+ *
+ * second.next = 3
+ * swapPairs(3)
+ *
+ * 3 -> 4
+ * becomes
+ * 4 -> 3
+ *
+ * Recursive call `4` return karega.
+ *
+ * Therefore:
+ * head.next = 4
+ *
+ * Temporary:
+ * 1 -> 4 -> 3
+ *
+ * Then:
+ * second.next = head
+ *
+ * 2 -> 1 -> 4 -> 3
+ *
+ * Finally return second (2).
+ *
+ * Recursion:
+ *
+ * swapPairs(1)
+ *      |
+ *      ↓
+ * swapPairs(3)
+ *      |
+ *      ↓
+ * swapPairs(null)
+ *      |
+ *      ↓
+ * return
