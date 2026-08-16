@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2032-two-out-of-three](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2032-two-out-of-three) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0383-ransom-note) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2248-intersection-of-multiple-arrays](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
