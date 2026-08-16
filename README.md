@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [3136-valid-word](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/3136-valid-word) |
 | [3146-permutation-difference-between-two-strings](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
+| [3340-check-balanced-string](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/3340-check-balanced-string) |
 | [3894-traffic-signal-color](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Bit Manipulation
 |  |
