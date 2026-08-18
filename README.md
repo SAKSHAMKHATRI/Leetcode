@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0041-first-missing-positive) |
+| [0051-n-queens](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0051-n-queens) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -246,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0680-valid-palindrome-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
