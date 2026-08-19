@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0066-plus-one) |
 | [0090-subsets-ii](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0090-subsets-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0047-permutations-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0090-subsets-ii) |
 ## Bracket Sequences
