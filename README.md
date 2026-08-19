@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0066-plus-one) |
 | [0090-subsets-ii](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0090-subsets-ii) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0090-subsets-ii) |
 ## Bracket Sequences
