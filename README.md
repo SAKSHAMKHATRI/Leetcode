@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2413-smallest-even-multiple) |
