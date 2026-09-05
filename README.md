@@ -266,4 +266,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0051-n-queens) |
+## Tree
+|  |
+| ------- |
+| [0965-univalued-binary-tree](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0965-univalued-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0965-univalued-binary-tree](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0965-univalued-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0965-univalued-binary-tree](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0965-univalued-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0965-univalued-binary-tree](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0965-univalued-binary-tree) |
 <!---LeetCode Topics End-->
