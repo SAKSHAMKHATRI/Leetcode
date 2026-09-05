@@ -269,21 +269,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0965-univalued-binary-tree) |
 <!---LeetCode Topics End-->
