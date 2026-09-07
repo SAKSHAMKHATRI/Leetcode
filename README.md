@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2032-two-out-of-three) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
