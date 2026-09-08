@@ -24,4 +24,9 @@ class Solution {
         if(r1.val != r2.val) return false;
         return IsIdentical(r1.left,r2.right) && IsIdentical(r1.right,r2.left);
     }
-}
+    }
+    // subtree ko alg alg krlia fr 
+    // jo element left substree k left mein hai kya woh ? right substree k right mein h.
+    // same dusre case mein hoga 
+    // yeh subtree k liye  IsIdentical(root.left,root.right); left , right 
+    // yeh unke elements k liye IsIdentical(r1.left,r2.right) && IsIdentical(r1.right,r2.left);
