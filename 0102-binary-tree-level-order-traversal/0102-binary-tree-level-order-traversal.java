@@ -32,9 +32,11 @@ class Solution {
             if(front.left!=null) q.add(front.left);
             if(front.right!=null) q.add(front.right);
             }
-           
         arr2.add(arr);  
         } 
+        // queue mein root element dalenge fr remove krke 
+        // uske child node hai woh dalenge 
+        // main arraylist mein store krte rhenge
     }
     
 }
