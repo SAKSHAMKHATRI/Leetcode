@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2000-reverse-prefix-of-word](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2129-capitalize-the-title](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2129-capitalize-the-title) |
 | [3136-valid-word](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/3136-valid-word) |
 | [3146-permutation-difference-between-two-strings](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3340-check-balanced-string](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/3340-check-balanced-string) |
