@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0067-add-binary) |
 | [0292-nim-game](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0292-nim-game) |
