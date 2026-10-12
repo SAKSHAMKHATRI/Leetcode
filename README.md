@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0275-h-index-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0575-distribute-candies) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0275-h-index-ii](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0275-h-index-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
