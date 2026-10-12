@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3731-find-missing-elements](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/3731-find-missing-elements) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Backtracking
 |  |
