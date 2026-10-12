@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2000-reverse-prefix-of-word](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Design
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2000-reverse-prefix-of-word](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Brainteaser
 |  |
 | ------- |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Algorithm X
 |  |
 | ------- |
