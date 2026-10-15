@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0047-permutations-ii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0041-first-missing-positive) |
 | [0383-ransom-note](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SAKSHAMKHATRI/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
